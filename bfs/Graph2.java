@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Graph2 {
 
     // 🔥 FAST INPUT
     static class FastReader {
